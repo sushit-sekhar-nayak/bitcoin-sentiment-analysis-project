@@ -1,10 +1,10 @@
-# 📈 Bitcoin Market Sentiment vs Trader Performance
+# Bitcoin Market Sentiment vs Trader Performance
 
 This project explores the relationship between **market sentiment** (Fear & Greed Index) and **trader performance** (Closed PnL) using historical trading data. The goal is to uncover patterns that may inform smarter trading strategies.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 bitcoin-sentiment-analysis/
 ├── src/
@@ -19,7 +19,7 @@ bitcoin-sentiment-analysis/
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 git clone https://github.com/sushit-sekhar-nayak/bitcoin-sentiment-analysis.git
